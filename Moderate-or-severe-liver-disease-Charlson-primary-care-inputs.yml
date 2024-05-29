@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-bleeding---primary.py
+inputModule3:
+  class: File
+  path: python/hepatorenal-moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-hepatitis---primary.py
+inputModule5:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-sequelae---primary.py
+inputModule6:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-sclerotherapy---primary.py
+inputModule7:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-hypertension---primary.py
+inputModule8:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-banding---primary.py
+inputModule9:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-operation---primary.py
+inputModule10:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-specified---primary.py
+inputModule11:
+  class: File
+  path: python/oesophageal-moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/endoscopic-moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care-cirrhosis---primary.py
+inputModule14:
+  class: File
+  path: python/moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/hepatic-moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/oesophagoscopic-moderate-or-severe-liver-disease-charlson-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
